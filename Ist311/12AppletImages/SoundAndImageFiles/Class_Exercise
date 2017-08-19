@@ -1,0 +1,15 @@
+Create a digital love poem for your boyfriend, girlfriend, fiancé, fiancee, husband or wife only using Applet technology. This can be real or imaginary. 
+
+To accomplish this.
+
+Create a single class called “LovePoem”
+
+1) Use the image file named “roses.jpg” as the background. The image should be reduced 50% in size compared to the original size.
+
+2) When the Applet loads, there should be a background sound. use the “slideflute.wav” file for the sound. Make sure the sound plays continuously unless the digital poem is closed.
+
+3) Write an inspirational poem to your love one on the digital card. The poem should be maximum 5 sentences.
+
+Grade (10 Points)
+
+Note: Be creative especially with your design, font size, font type, text location, text color, etc. 
